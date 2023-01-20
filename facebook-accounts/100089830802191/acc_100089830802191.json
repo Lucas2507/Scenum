@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Helena Cruz",
 	"birthdate": "1983 January 17",
-	"country": "",
+	"country": "Bahia",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -26,7 +26,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708708802.109979,
+			"expirationDate": 1708802181.233663,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -64,45 +64,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705684788.109996,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100089830802191"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1705684788.110008,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "40%3AeLRpjHjvWQrcgg%3A2%3A1674152350%3A-1%3A-1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681924804.542502,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "m_page_voice",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100089830802191"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "x-referer",
@@ -115,20 +76,46 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674754453,
+			"expirationDate": 1674757305.405078,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "wd",
+			"name": "locale",
 			"path": "/",
-			"sameSite": "lax",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x892"
+			"value": "en_US"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681925373.514361,
+			"expirationDate": 1705778179.233744,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100089830802191"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705778179.233763,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "7%3AlFNnfFeYGBNFWQ%3A2%3A1674245729%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682018235.941511,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +124,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0gozUi0O0o8u8BTSf.AWU_BEzuilL29b33reJRmzkXx2Q.BjyYkh.YY.AAA.0.0.BjyYvc.AWWf1h0R6Cs"
+			"value": "0gozUi0O0o8u8BTSf.AWV-dFdf6TS-w75XtUEXEx08P1M.BjyYkh.YY.AAA.0.0.Bjyvab.AWW27G2JbAY"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674847277,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x937"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +149,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674149659272%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674242437348%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "20.01.2023 19:15 3 - Curtir/Comentar... Dia 03"
+	"lastEventDate": "20.01.2023 19:21 3 - Curtir/Comentar... Dia 03"
 }
