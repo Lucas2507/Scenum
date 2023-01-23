@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705853452.243511,
+			"expirationDate": 1706044269.498418,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705853452.243615,
+			"expirationDate": 1675113357,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x937"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1706044269.498486,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "46%3ASRjGDTeeytb1bw%3A2%3A1674172923%3A-1%3A-1%3A%3AAcU4uEj_-YSzxltW5YHWejA6trzr6BnPFLGegNS48Q"
+			"value": "46%3ASRjGDTeeytb1bw%3A2%3A1674172923%3A-1%3A-1%3A%3AAcWECXEbzfTCCR6gwSo2SDllI4UcNFLqFNvrfcAW8Q"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682093477.805701,
+			"expirationDate": 1682284310.613758,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0jQH2EbDoMJi6R4dC.AWWsohJXh-pMnVneYv1_LTEMI90.BjzBxt.VO.AAA.0.0.BjzByG.AWVOOO8Jh0A"
+			"value": "0XzQ6WLpLXb7qLhFa.AWWdxkOseSZhsd3M8Th0Ln_WEeY.BjzwXO.VO.AAA.0.0.BjzwX3.AWXcyEoO7LE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -99,21 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674317669138%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674922493,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1920x892"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674508564729%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "23.01.2023 21:10 4 - Atividade Dia 4 e 5"
+	"lastEventDate": "23.01.2023 21:17 4 - Atividade Dia 4 e 5"
 }
