@@ -51,19 +51,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674386095.936508,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASRi5BKhLSxOo35R-PaY5iKIEnSkxbklhQN9rTci5W3ggmUfFJCKNEMxglvMvvRn4shb2iYNJpkTFeeCNC1TxiATcZn_izKIgwegQ73Cr7A0yaYeZm6IFy-Tqqp0ZmR23zZHBo3DswjfLY5Hvx_P0IwxYAiActFieebP970Y9_bfsGOU7J-2bZ2OGYMucv15xoWWd2atGLizDvfgpZ_coofkVigxxxJ9GAYOb_E6pcC8zkk9IF7mATFZ8sr2RQPvRTjiZ6HltA8lZevZ43yimc1iEQn_fkuXx5L9krexQXoZVdemWUb6Qmr58-I"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1705576554.407994,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -115,20 +102,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674838077,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "wd",
+			"name": "usida",
 			"path": "/",
-			"sameSite": "lax",
+			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "1920x937"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJveHM1MTFhNTF6Z28iLCJ0aW1lIjoxNjc0NDc0OTU5fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682009059.566121,
+			"expirationDate": 1682338857.808383,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +123,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0gj5haA5ER6fZo9qS.AWXuMOFoavdKVxAM_4-CoXsGe-c.Bjx9Sp.WD.AAA.0.0.BjytLC.AWVl5_o0IqA"
+			"value": "0gj5haA5ER6fZo9qS.AWW1h_W7r5zJJviEPM6vbasv4bE.Bjx9Sp.WD.AAA.0.0.Bjz9sM.AWVDkblHXaU"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675168064,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x892"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +148,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674233252449%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674563244372%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "23.01.2023 11:32 5 - Atividade Dias 6 a 8",
+	"lastEventDate": "24.01.2023 12:28 6 - Atividade Dias 9 e 10",
 	"code2fa": "FDYL5ABUJUUMMFKAULVRAPIP4BDW6BNE",
 	"recoveryCodes": [
 		"01820640",
