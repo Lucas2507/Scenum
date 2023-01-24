@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Ana Lívia Costa",
 	"birthdate": "2000 January 23",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706103975.56118,
+			"expirationDate": 1706119596.649594,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,33 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706103975.561193,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "26%3Aa-itko66yzUuHw%3A2%3A1674571544%3A-1%3A-1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1682344611.671086,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0AUKotI0LBelS7SpM.AWVMbK4Yvm-z3dlUDLVo0AaIBvQ.Bjz-6r.mF.AAA.0.0.Bjz_GF.AWV3KPlnmxw"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675173600,
+			"expirationDate": 1675189049,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,7 +74,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x892"
+			"value": "1920x937"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1706119596.649978,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "26%3Aa-itko66yzUuHw%3A2%3A1674571544%3A-1%3A-1%3A%3AAcUZ3XvJNgcPTwRvrN4kGjoaWoI8A8hf3pL7dqsDFA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682359659.814299,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "07chtEK2ndixTPybF.AWXOjGN9JHrQjQXFpQfQD2eyfNE.Bj0CwO.mF.AAA.0.0.Bj0CxN.AWWRUPfCRhM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,10 +112,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674568751209%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674584264145%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "24.01.2023 18:06 3 - Curtir/Comentar... Dia 03",
+	"lastEventDate": "24.01.2023 18:17 3 - Curtir/Comentar... Dia 03",
 	"code2fa": "BKJ6J6PFSYWOA2AJXL45GDTTRBNBIIYP",
 	"recoveryCodes": [
 		"03131361",
