@@ -114,20 +114,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682338857.808383,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0gj5haA5ER6fZo9qS.AWW1h_W7r5zJJviEPM6vbasv4bE.Bjx9Sp.WD.AAA.0.0.Bjz9sM.AWVDkblHXaU"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675168064,
+			"expirationDate": 1675250578,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -136,7 +123,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x892"
+			"value": "1920x937"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682421566.545098,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0gj5haA5ER6fZo9qS.AWU3AvRSh9Ed3ZNG6fyJ0dc9Y0c.Bjx9Sp.WD.AAA.0.0.Bj0R4h.AWXEeFkfaiA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -148,10 +148,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674563244372%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674645752360%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "25.01.2023 11:18 7 - Atividade Dia 11 e 12",
+	"lastEventDate": "25.01.2023 11:22 7 - Atividade Dia 11 e 12",
 	"code2fa": "FDYL5ABUJUUMMFKAULVRAPIP4BDW6BNE",
 	"recoveryCodes": [
 		"01820640",
