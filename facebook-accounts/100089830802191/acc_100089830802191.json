@@ -51,19 +51,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674494295.103225,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASTWLqSUFebjo-368GBQ7vgFechn-oBfZ2BzcshCJQlL73_ei0u8m-iUrMTVTjDxeb8buouai1WW3qUyT_IIKeDAhmFzcZ3u9DyNi2FVOf-4p8slYNcr5r3qaCZCBF8LMy9kUreggJLsuAODRNND2PC66kHyJ2G4Wzxl_GDJ-sSHzGrzZ-Ldz7cOYLOAQFzrfAOddqgUiP6-M1qgU9K4Gpe_ueccy20QiA-T7fQvagYuDqNmrp0V4wjqK0NQg8ffMEbtaigtyad1gSUqVPzysa_JuH1v7SAzRTWvtdmbz61eSCT2LFcXPL6nDA6k"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "x-referer",
@@ -89,7 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706017438.810555,
+			"expirationDate": 1706186429.730586,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -102,33 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706017438.810615,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "7%3AlFNnfFeYGBNFWQ%3A2%3A1674245729%3A-1%3A-1%3A%3AAcWliSaw1LiOdOqoMQQyKkyicm_IZ-O88_VvTJPc_w"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1682257471.837408,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "06tdI3EDHJtdtKmsZ.AWXMn8G0uOFAGMiqjDl4_0ZVZMY.Bjzpz_.YY.AAA.0.0.Bjzp0g.AWUVnwBMBiU"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675086505,
+			"expirationDate": 1675255609,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -137,7 +98,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x892"
+			"value": "1920x937"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1706186429.730663,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "7%3AlFNnfFeYGBNFWQ%3A2%3A1674245729%3A-1%3A-1%3A%3AAcUicZ_pR42stiW6qB6Mgs9alqOKl3SmGC0a8qaEvw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682426450.027614,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0SDQ2qtdh61cMIfTI.AWXntWiUrAWrfhv08bkvIdN1684.Bj0TEg.YY.AAA.0.0.Bj0TE0.AWUxKRHMHmE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674481668662%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674650779118%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "24.01.2023 15:45 5 - Atividade Dias 6 a 8",
+	"lastEventDate": "25.01.2023 12:46 6 - Atividade Dias 9 e 10",
 	"funPages": [
 		"https://web.facebook.com/profile.php?id=100089485039179"
 	]
