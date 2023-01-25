@@ -39,20 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674598717.553074,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1706107050.206836,
+			"expirationDate": 1706183726.672215,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,20 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675176330,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1920x937"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1706107050.206974,
+			"expirationDate": 1706183726.672301,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +73,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "35%3Afjvw_i1y-0mqMw%3A2%3A1673993916%3A-1%3A-1%3A%3AAcXsSfyW5lya0nNMeB-4WUq4_FQ9bkiWo0HHzoIo2g"
+			"value": "35%3Afjvw_i1y-0mqMw%3A2%3A1673993916%3A-1%3A-1%3A%3AAcVrqSHb0rewjKvUs6tx-XE47E5XRv6qOPfzR7FnrA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682347121.971511,
+			"expirationDate": 1682423731.254155,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +86,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "09yCuCTUUsH7fMkZ5.AWXQcMWaw69mCLahxa1sErgSi48.Bjz_sL.q6.AAA.0.0.Bjz_tU.AWXtbHiijiU"
+			"value": "0pJme3Krm7hztkjJc.AWUrVXw6EvaMULLh3HrJ4NKWzHI.Bj0SaR.q6.AAA.0.0.Bj0SaW.AWW1Tr9C9XU"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675252798,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x892"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,10 +111,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674571544371%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674648008665%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "25.01.2023 11:54 7 - Atividade Dia 11 e 12",
+	"lastEventDate": "25.01.2023 12:00 7 - Atividade Dia 11 e 12",
 	"code2fa": "KRTBCKPM4W3Y53E2NSYVPHWKKWR4AKZF",
 	"recoveryCodes": [
 		"06922291",
