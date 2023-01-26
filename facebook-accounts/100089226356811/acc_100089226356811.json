@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706146134.928543,
+			"expirationDate": 1706272099.217208,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,20 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675215133,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1920x892"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1706146134.928664,
+			"expirationDate": 1706272099.217266,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "28%3AFEo1RVSoqrUf0Q%3A2%3A1674226247%3A-1%3A-1%3A%3AAcVwj8SA6b0_VIKPvSlbfkF2ViNNceC7nGH_jvARPA"
+			"value": "28%3AFEo1RVSoqrUf0Q%3A2%3A1674226247%3A-1%3A-1%3A%3AAcV5xkXZSGqG7R2IkAfCHB3VyW-AuqUpa-57a84kCA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682386137.547207,
+			"expirationDate": 1682512128.683768,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +87,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0GwM8X5UyyrE997kE.AWX94mfTep5rTtrDWnICrucaRaI.Bj0JO3.hC.AAA.0.0.Bj0JO7.AWW0ipIvH6g"
+			"value": "0lfyuq0vdrtiCjVfN.AWVbreUKfXYKgoln65gPvdwxnsk.Bj0n_H.hC.AAA.0.0.Bj0n_k.AWVbJZvim4c"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,10 +99,23 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674610288041%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674736344408%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675341201,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x892"
 		}
 	],
-	"lastEventDate": "26.01.2023 12:28 6 - Atividade Dias 9 e 10",
+	"lastEventDate": "26.01.2023 12:33 6 - Atividade Dias 9 e 10",
 	"funPages": [
 		"https://web.facebook.com/profile.php?id=100089362164341"
 	]
