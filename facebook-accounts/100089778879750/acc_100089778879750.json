@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706213785.708142,
+			"expirationDate": 1706278779.595017,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706213785.708202,
+			"expirationDate": 1706278779.595078,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +74,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "26%3Aa-itko66yzUuHw%3A2%3A1674571544%3A-1%3A-1%3A%3AAcUn5kqqljitfFWiCxCo8_8k5dPDqqxdnQKZeMcW6g"
+			"value": "26%3Aa-itko66yzUuHw%3A2%3A1674571544%3A-1%3A-1%3A%3AAcWnL_ukJ9ug8jnYV9isWe1mzjMY80AAlX0LNgwI9g"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675282838,
+			"expirationDate": 1682518788.898009,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "03vhBgGmRMtDR15fk.AWW5qpDymxFuSB2GsX-qgbUGxW8.Bj0pne.mF.AAA.0.0.Bj0pno.AWU1MYS2tSo"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675347902,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,19 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682453869.306877,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0OowVlUrcUF474qGf.AWWPTWpn1DLOkBSG34Ves80Se1k.Bj0Zv8.mF.AAA.0.0.Bj0ZxP.AWUkci2PJjA"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -112,10 +112,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674678014531%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674743110041%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.01.2023 14:19 6 - Atividade Dias 9 e 10",
+	"lastEventDate": "26.01.2023 14:25 6 - Atividade Dias 9 e 10",
 	"code2fa": "BKJ6J6PFSYWOA2AJXL45GDTTRBNBIIYP",
 	"recoveryCodes": [
 		"03131361",
