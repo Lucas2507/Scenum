@@ -115,6 +115,18 @@
 			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675365997102%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "02.02.2023 19:42 2 - Registro Dia 02",
-	"code2fa": "WS3B4G5Z33K4HDCCQW7GNN6Z5WUPNDI2"
+	"lastEventDate": "02.02.2023 19:43 2 - Registro Dia 02",
+	"code2fa": "WS3B4G5Z33K4HDCCQW7GNN6Z5WUPNDI2",
+	"recoveryCodes": [
+		"03860513",
+		"04424826",
+		"13261845",
+		"32176461",
+		"36010691",
+		"40456447",
+		"47491345",
+		"49361905",
+		"73518800",
+		"88945114"
+	]
 }
