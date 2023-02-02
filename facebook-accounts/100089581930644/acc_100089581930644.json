@@ -114,7 +114,7 @@
 			"value": "1920x892"
 		}
 	],
-	"lastEventDate": "02.02.2023 11:59 8 - Criar Anuncios",
+	"lastEventDate": "02.02.2023 12:03 8 - Criar Anuncios",
 	"code2fa": "KRTBCKPM4W3Y53E2NSYVPHWKKWR4AKZF",
 	"recoveryCodes": [
 		"06922291",
@@ -130,5 +130,6 @@
 	],
 	"funPages": [
 		"https://web.facebook.com/profile.php?id=100089529825024"
-	]
+	],
+	"adsToken": "EAABsbCS1iHgBAOCEXKdq2uUwZCBO3BXtOGjnIzpyZCBrHjppJL8Szfdpr8ExOiClLgjNWzyxo4WhyxsUO4wnvTMvYfZAEm91KHsZAQ5I9zrIUxKCwZCnpx1lHhcR22h54TBZAdm2kyY5hvIDVjSeAUfSFOj3bDIcyZCRS9kqqBvEclthXi1myatBWDG0ZAMxhqGXfraob22mUAZDZD"
 }
