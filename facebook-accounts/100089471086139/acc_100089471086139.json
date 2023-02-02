@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706307790.248572,
+			"expirationDate": 1706875968.692727,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,7 +52,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675376772,
+			"expirationDate": 1706875968.692859,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "45%3AnzudEJDu0K1r9w%3A2%3A1674162549%3A-1%3A-1%3A%3AAcWGeIrs-1H8tedptMxvSSQKODcfdluSp48np-S4DA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683115978.822037,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0BuUihXL3OfrLGeDy.AWWZN6B0ZO3t1cSF7-5LagadNuA.Bj27ak.F9.AAA.0.0.Bj27au.AWWx0QpkjxU"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675945035,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -65,32 +91,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706307790.248619,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "45%3AnzudEJDu0K1r9w%3A2%3A1674162549%3A-1%3A-1%3A%3AAcWWowEjLQmRs1iidXbXtg-hJXJ3m3uU_koR76fUoA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1682547793.334239,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0S6JZNBMGWrZ754FF.AWWA3bhrzUxPmy-RIKfeQiWl_Kc.Bj0wsx.F9.AAA.0.0.Bj0ws0.AWVyDO5VJPo"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -99,8 +99,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674771928207%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675340246254%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.01.2023 22:39 7 - Atividade Dia 11 e 12"
+	"lastEventDate": "02.02.2023 12:17 8 - Criar Anuncios"
 }
