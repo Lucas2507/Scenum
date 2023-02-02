@@ -114,7 +114,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675250578,
+			"expirationDate": 1675942750,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -123,11 +123,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x937"
+			"value": "1920x892"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682421566.545098,
+			"expirationDate": 1683113717.139626,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -136,7 +136,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0gj5haA5ER6fZo9qS.AWU3AvRSh9Ed3ZNG6fyJ0dc9Y0c.Bjx9Sp.WD.AAA.0.0.Bj0R4h.AWXEeFkfaiA"
+			"value": "0gj5haA5ER6fZo9qS.AWUre9PZgX084AcJ3EK3x3XO02Y.Bjx9Sp.WD.AAA.0.0.Bj263Z.AWXJvoSWUJU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -148,10 +148,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674645752360%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675337960441%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "25.01.2023 11:41 7 - Atividade Dia 11 e 12",
+	"lastEventDate": "02.02.2023 11:39 8 - Criar Anuncios",
 	"code2fa": "FDYL5ABUJUUMMFKAULVRAPIP4BDW6BNE",
 	"recoveryCodes": [
 		"01820640",
