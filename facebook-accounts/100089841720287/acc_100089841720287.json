@@ -151,7 +151,7 @@
 			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675337960441%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "02.02.2023 11:39 8 - Criar Anuncios",
+	"lastEventDate": "02.02.2023 11:42 8 - Criar Anuncios",
 	"code2fa": "FDYL5ABUJUUMMFKAULVRAPIP4BDW6BNE",
 	"recoveryCodes": [
 		"01820640",
@@ -167,5 +167,6 @@
 	],
 	"funPages": [
 		"https://web.facebook.com/profile.php?id=100089511885376"
-	]
+	],
+	"adsToken": "EAABsbCS1iHgBAJ6ZB46hvCxF6ZCPcUesiscEzdL9xVMDoQg0eeEprbhN6CZCTFADRapZCLuPZB0rJijqiIDZBcDH4LXVdmHXZBgKjbUWZAgRNnTvWwmYbvssQlb5gEN4qSrwrFncV9j5eRCEYRhpI0Qgvsxz1XZBbiFQCaboddjkzoy06wTIv7EZCZA2lZBSfaZA9SnIZD"
 }
