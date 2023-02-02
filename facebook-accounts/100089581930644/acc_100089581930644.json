@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706183726.672215,
+			"expirationDate": 1706874895.002202,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706183726.672301,
+			"expirationDate": 1706874895.002285,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -73,11 +73,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "35%3Afjvw_i1y-0mqMw%3A2%3A1673993916%3A-1%3A-1%3A%3AAcVrqSHb0rewjKvUs6tx-XE47E5XRv6qOPfzR7FnrA"
+			"value": "35%3Afjvw_i1y-0mqMw%3A2%3A1673993916%3A-1%3A-1%3A%3AAcXobHGd3zR9Owid9xDYxuRo98a9U13bN-V0Uvkdkw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682423731.254155,
+			"expirationDate": 1683114935.223719,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -86,20 +86,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0pJme3Krm7hztkjJc.AWUrVXw6EvaMULLh3HrJ4NKWzHI.Bj0SaR.q6.AAA.0.0.Bj0SaW.AWW1Tr9C9XU"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675252798,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1920x892"
+			"value": "0roDJ6G7ZTYNeche8.AWXdy43Nd5y1HSxMwpyrTsnGc6w.Bj27Jy.q6.AAA.0.0.Bj27Kb.AWXFQST611A"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,10 +98,23 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674648008665%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675339131005%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675943964,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x892"
 		}
 	],
-	"lastEventDate": "25.01.2023 12:11 7 - Atividade Dia 11 e 12",
+	"lastEventDate": "02.02.2023 11:59 8 - Criar Anuncios",
 	"code2fa": "KRTBCKPM4W3Y53E2NSYVPHWKKWR4AKZF",
 	"recoveryCodes": [
 		"06922291",
