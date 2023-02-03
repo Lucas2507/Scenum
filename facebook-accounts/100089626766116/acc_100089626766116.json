@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706956468.217803,
+			"expirationDate": 1706962995.896182,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676025454,
+			"expirationDate": 1706962995.89625,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "35%3Ao1u5oUJiuMqC1g%3A2%3A1675368931%3A-1%3A-1%3A%3AAcWBZMhb3Qkm8fyjKntBZYZ9mEO2S2LyvEJAmj03yA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683203018.131426,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0PqlHMlyx4fPWh7Rf.AWUN4cxWSqxe3Oml10R6Y0A7tes.Bj3QqZ.MZ.AAA.0.0.Bj3Qqv.AWXHNZXh6_Y"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676032136,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,32 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706956468.21791,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "35%3Ao1u5oUJiuMqC1g%3A2%3A1675368931%3A-1%3A-1%3A%3AAcWucXpyZgiwux_s06pTws5ZYJzxKUQ0W1Ha2p96EQ"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683196473.939624,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0jDlnEx7jOqVycMzA.AWVMOvtnPOO_wFPitb_AH44Qph8.Bj3PEZ.MZ.AAA.0.0.Bj3PEf.AWWkJHasCx4"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -112,10 +112,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675420630985%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675427310665%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "03.02.2023 12:22 4 - Atividade Dia 4 e 5",
+	"lastEventDate": "03.02.2023 12:29 4 - Atividade Dia 4 e 5",
 	"code2fa": "WS3B4G5Z33K4HDCCQW7GNN6Z5WUPNDI2",
 	"recoveryCodes": [
 		"03860513",
