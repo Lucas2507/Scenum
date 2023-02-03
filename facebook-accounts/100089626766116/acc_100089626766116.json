@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Vitória Cruz",
 	"birthdate": "1979 January 6",
-	"country": "",
+	"country": "Pará",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706901370.483207,
+			"expirationDate": 1706956468.217803,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,33 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706901370.483223,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "35%3Ao1u5oUJiuMqC1g%3A2%3A1675368931%3A-1%3A-1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683141867.184331,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0J1fYYQwJXGJAQRw5.AWXfT4RhfoFiq9lSxAWINB55CHY.Bj3Bms.MZ.AAA.0.0.Bj3BvO.AWXNjaG0vHo"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675970841,
+			"expirationDate": 1676025454,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,6 +78,32 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1706956468.21791,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "35%3Ao1u5oUJiuMqC1g%3A2%3A1675368931%3A-1%3A-1%3A%3AAcWucXpyZgiwux_s06pTws5ZYJzxKUQ0W1Ha2p96EQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683196473.939624,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0jDlnEx7jOqVycMzA.AWVMOvtnPOO_wFPitb_AH44Qph8.Bj3PEZ.MZ.AAA.0.0.Bj3PEf.AWWkJHasCx4"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -112,10 +112,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675365997102%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675420630985%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "03.02.2023 10:33 3 - Curtir/Comentar... Dia 03",
+	"lastEventDate": "03.02.2023 10:37 3 - Curtir/Comentar... Dia 03",
 	"code2fa": "WS3B4G5Z33K4HDCCQW7GNN6Z5WUPNDI2",
 	"recoveryCodes": [
 		"03860513",
