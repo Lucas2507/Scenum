@@ -39,19 +39,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676028390,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1920x937"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1675987992.551241,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -65,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706959280.291299,
+			"expirationDate": 1706966611.296275,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706959280.291377,
+			"expirationDate": 1706966611.296367,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "39%3Aqtv34kzynTBd7Q%3A2%3A1675386743%3A-1%3A-1%3A%3AAcUNBxODka86wJQ0h4i3JP1U0O2Paq8_2kjMFXHlAQ"
+			"value": "39%3Aqtv34kzynTBd7Q%3A2%3A1675386743%3A-1%3A-1%3A%3AAcXR5CCoWmu9fBhO8YX4q5Xethy4Xy-tFYBen1Sk2w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683199302.715217,
+			"expirationDate": 1683206620.977093,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +87,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "07SF3VZLkwcMRZzKa.AWVuZYijFnWnp3CLA3H9nOhSCmM.Bj3PwV.L8.AAA.0.0.Bj3Pws.AWU1mgEeWao"
+			"value": "0tKgcfSNLcvTvfQCA.AWWmruF-bDAFEVMCHjHvPeHS-ow.Bj3Ri4.L8.AAA.0.0.Bj3RjC.AWUL6Cb9PxQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676035654,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x892"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675423539909%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675430803673%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "03.02.2023 13:23 4 - Atividade Dia 4 e 5"
+	"lastEventDate": "03.02.2023 13:27 4 - Atividade Dia 4 e 5"
 }
