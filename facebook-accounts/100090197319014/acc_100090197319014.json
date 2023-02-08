@@ -39,19 +39,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676475210,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1900x909"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1676474644.310768,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -91,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683646120.885735,
+			"expirationDate": 1683646491.707865,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +87,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "04DlxLPpT3d2CiXLx.AWWKslocAuP-JopEtz5o4-UHRr8.Bj48v9.oU.AAA.0.0.Bj482O.AWW2Bi88YOw"
+			"value": "04DlxLPpT3d2CiXLx.AWV5_nYhd4y69R2gJuvcNurIYpM.Bj48v9.oU.AAA.0.0.Bj488C.AWW3TgbXado"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676475549,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1900x864"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675870414895%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675870754709%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "08.02.2023 15:34 2 - Registro Dia 02"
+	"lastEventDate": "08.02.2023 15:39 2 - Registro Dia 02"
 }
