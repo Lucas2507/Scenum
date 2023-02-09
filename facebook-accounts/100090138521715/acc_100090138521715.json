@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Maria Alice Rodrigues",
 	"birthdate": "1985 January 26",
-	"country": "",
+	"country": "Bahia",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707427394.415517,
+			"expirationDate": 1707501476.194612,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,33 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707427394.415531,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "39%3A7vK0kuhGGyJZ9A%3A2%3A1675894963%3A-1%3A-1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683667883.142213,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "03EnuNnMS89QcQA7N.AWU7n5cV6UcGkNVNc7Hw42zYb2M.Bj5CBz.Qr.AAA.0.0.Bj5CKT.AWWFyOB9310"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676496872,
+			"expirationDate": 1676570567,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,7 +74,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x892"
+			"value": "1920x937"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1707501476.19476,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "39%3A7vK0kuhGGyJZ9A%3A2%3A1675894963%3A-1%3A-1%3A%3AAcXnY9JWSTGH_BvfutnFCYYIqdKUFxbsXJadEFL-Uw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683741515.652886,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0p3rXIvSNvtoaPP7u.AWUOabt1ZijikHuZ8VNQCLGxyWU.Bj5UIM.Qr.AAA.0.0.Bj5UI0.AWX03wsnoW4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675892027113%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675965734912%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "09.02.2023 17:57 3 - Curtir/Comentar... Dia 03"
+	"lastEventDate": "09.02.2023 18:02 3 - Curtir/Comentar... Dia 03"
 }
