@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Sophie Fernandes",
 	"birthdate": "1995 February 7",
-	"country": "",
+	"country": "Bahia",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707405830.310853,
+			"expirationDate": 1707484322.4628,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707405830.310865,
+			"expirationDate": 1707484322.462888,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "38%3AQ9TbDKzEWgwJiA%3A2%3A1675873400%3A-1%3A-1"
+			"value": "38%3AQ9TbDKzEWgwJiA%3A2%3A1675873400%3A-1%3A-1%3A%3AAcViAg1KOYnwrvX61rFalQmx5YH9ljmpWh6kTyCWaA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683646491.707865,
+			"expirationDate": 1683724330.151804,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "04DlxLPpT3d2CiXLx.AWV5_nYhd4y69R2gJuvcNurIYpM.Bj48v9.oU.AAA.0.0.Bj488C.AWW3TgbXado"
+			"value": "0hHFOEKOQfK9N6rcK.AWXzLFE43VzynY7rCHdKW5xp9PA.Bj5P8L.oU.AAA.0.0.Bj5P8S.AWXEmZPE4rc"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676475549,
+			"expirationDate": 1676553376,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675870754709%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675948546330%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "09.02.2023 13:11 3 - Curtir/Comentar... Dia 03"
+	"lastEventDate": "09.02.2023 13:16 3 - Curtir/Comentar... Dia 03"
 }
