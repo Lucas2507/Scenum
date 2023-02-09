@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707414059.355054,
+			"expirationDate": 1707497876.285091,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,20 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707414059.355069,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "20%3A2Lu_51qUE0ERBA%3A2%3A1675881629%3A-1%3A-1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676483922,
+			"expirationDate": 1676566975,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,11 +74,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1580x684"
+			"value": "1580x729"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683654714.892659,
+			"expirationDate": 1707497876.285181,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "20%3A2Lu_51qUE0ERBA%3A2%3A1675881629%3A-1%3A-1%3A%3AAcV8Y4LY4F6oo-RgTKr8Tr1NfVVs0bAhrxPGIRfcJQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683737912.948868,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0k4HirlyO7yef4Cbe.AWW410ivvwH-iKSzpzoRYNP9fBw.Bj4-wy.iD.AAA.0.0.Bj4-8h.AWXDvUJdMy4"
+			"value": "0KZ7sjS667On7hvu6.AWXra6e3wS-VMtYXXdCsfXSfUy8.Bj5TP8.iD.AAA.0.0.Bj5TQh.AWVtKKD759A"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675879069725%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675962148871%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "09.02.2023 16:57 3 - Curtir/Comentar... Dia 03"
+	"lastEventDate": "09.02.2023 17:03 3 - Curtir/Comentar... Dia 03"
 }
