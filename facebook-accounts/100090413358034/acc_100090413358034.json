@@ -26,7 +26,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677789287,
+			"expirationDate": 1677789640,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684960134.32829,
+			"expirationDate": 1684960553.992888,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0gLgA2wieodFRcuo9.AWWlbcI2Ppy6CSmqnswYLRFQsM8.Bj99kB.O_.AAA.0.0.Bj99py.AWVI-1cQ4mE"
+			"value": "0gLgA2wieodFRcuo9.AWUsWmPGw442MUW3_O_UGmDfOi4.Bj99kB.O_.AAA.0.0.Bj99wX.AWX6FAvxsrA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677184433936%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677184791893%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "23.02.2023 20:34 2 - Registro Dia 02"
+	"lastEventDate": "23.02.2023 20:40 2 - Registro Dia 02"
 }
