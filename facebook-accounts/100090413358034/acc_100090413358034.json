@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Luiza Couto",
 	"birthdate": "2003 February 1",
-	"country": "",
+	"country": "Gerais",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -23,19 +23,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "Adn3Y8oWLXUR-sStLzzfa6OC"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677789640,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1920x892"
 		},
 		{
 			"domain": ".facebook.com",
@@ -65,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708719844.3834,
+			"expirationDate": 1709160537.596006,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +65,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708719844.383419,
+			"expirationDate": 1678229535,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x892"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1709160537.596082,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "14%3Alkel5X3YNDAi0Q%3A2%3A1677187419%3A-1%3A-1"
+			"value": "14%3Alkel5X3YNDAi0Q%3A2%3A1677187419%3A-1%3A-1%3A%3AAcWxor2hw1ODMeLMhZuXMXRS_9tHYRelzmHLQBhtKQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684960553.992888,
+			"expirationDate": 1685400552.581458,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0gLgA2wieodFRcuo9.AWUsWmPGw442MUW3_O_UGmDfOi4.Bj99kB.O_.AAA.0.0.Bj99wX.AWX6FAvxsrA"
+			"value": "0eNRlnizpYUoREeL3.AWUHLksVj5oZgMJ75KbSnypJ6Ms.Bj_oS-.O_.AAA.0.0.Bj_oTN.AWWb8kODBcE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677184791893%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677624706847%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "28.02.2023 22:48 4 - Atividade Dia 4 e 5"
+	"lastEventDate": "28.02.2023 22:52 4 - Atividade Dia 4 e 5"
 }
