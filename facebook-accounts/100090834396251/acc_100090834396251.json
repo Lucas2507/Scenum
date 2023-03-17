@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710555400.587302,
+			"expirationDate": 1710590719.164321,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,33 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710555400.587355,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "40%3Apzn5NPGHmm0eAA%3A2%3A1677679209%3A-1%3A-1%3A%3AAcXC7A3gg0is-l8tPjhFwU4fKPoQAKa2vikcPg5cUA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1686795450.228848,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0wN2KtLxlbXq3lOZZ.AWW_g1g8PIcdfnxABtXhTEzmD7M.BkE81u.az.AAA.0.0.BkE82f.AWVlOeijAFU"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679624344,
+			"expirationDate": 1679659694,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,6 +65,32 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1710590719.164394,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "40%3Apzn5NPGHmm0eAA%3A2%3A1677679209%3A-1%3A-1%3A%3AAcX_qSiDwbOxmR22t1O2gQqShzEOnKdFHhKGa4ddmw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1686830805.098236,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0KfYzkc9eCC609XHa.AWWLK4S__qGkDLw799EQSh_FO7s.BkFFdl.az.AAA.0.0.BkFFe8.AWWkb2Czp9A"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -99,10 +99,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679019519273%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679054870034%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "17.03.2023 12:05 5 - Atividade Dias 6 a 8",
+	"lastEventDate": "17.03.2023 12:08 5 - Atividade Dias 6 a 8",
 	"funPages": [
 		"https://web.facebook.com/profile.php?id=100090816506771"
 	]
